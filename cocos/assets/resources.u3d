@@ -1,0 +1,555 @@
+{
+    "packageUrl": "https://hot.djync.net/hj_1.0.0/",
+    "remoteVersionUrl": "https://hot.djync.net/hj_1.0.0/config.u3d",
+    "remoteManifestUrl": "https://hot.djync.net/hj_1.0.0/resources.u3d",
+    "version": "1.0.0",
+    "engineVersion": "Unity3D V20200202",
+    "assets": {
+        "config.u3d": {
+            "size": 450,
+            "md5": "6b0b030ee21d0b5d53ddf7b3b1850919",
+            "id": "0"
+        },
+        "jsb-adapter/jsb-builtin.js": {
+            "size": 318464,
+            "md5": "e3b18c63869703e33a3f4d344830efa5",
+            "id": "0"
+        },
+        "jsb-adapter/jsb-engine.js": {
+            "size": 187610,
+            "md5": "a8c1a5e38cc70b723be197f7b2c3253a",
+            "id": "0"
+        },
+        "main.js": {
+            "size": 6381,
+            "md5": "ee55e5255295d34a6e8f55ecb46fd606100",
+            "id": "0"
+        },
+        "res/import/02.zip": {
+            "size": 326,
+            "md5": "ec9710e460a7ea7bc9f8d196c4b6d359",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/03.zip": {
+            "size": 669,
+            "md5": "e96952059acbdd1fb5014f928fab4ba0",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/0e.zip": {
+            "size": 1352,
+            "md5": "3df2ef0d2f1a0863112b7b25bd427a3b",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/0f.zip": {
+            "size": 334,
+            "md5": "c51cca59a2c7edc6657befec6afd585e",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/11.zip": {
+            "size": 334,
+            "md5": "d0de3627509f048b9b0537670defad95",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/14.zip": {
+            "size": 1052,
+            "md5": "6e6bf69affedb28cd2d31dd8ecb11492",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/17.zip": {
+            "size": 662,
+            "md5": "4f1427dd1fabdffb17f7d2ad8e4ac1d2",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/1e.zip": {
+            "size": 424,
+            "md5": "558d9e310631778bc959db40c46ea528",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/22.zip": {
+            "size": 346,
+            "md5": "cc7314d5a039faa0d587bbc2cfe970cc",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/28.zip": {
+            "size": 1257,
+            "md5": "4399321eb0ac6288a81668fc7eb15134",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/29.zip": {
+            "size": 418,
+            "md5": "11c88ec44128acd48a48e7e306d9f93e",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/2a.zip": {
+            "size": 438,
+            "md5": "0f881deb25e71de946d3b7115c94437f",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/32.zip": {
+            "size": 334,
+            "md5": "1dcac15b15f364aad2c0a55f3adfa8b9",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/3a.zip": {
+            "size": 392,
+            "md5": "050528c68a5c760e2cbda90cd2035d7e",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/44.zip": {
+            "size": 330,
+            "md5": "bdbdca5d9baeb81c290adb9d35e06915",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/45.zip": {
+            "size": 438,
+            "md5": "ae33d8350f18d6931164470cfad44a31",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/48.zip": {
+            "size": 438,
+            "md5": "d7ce840dfd0c579544c8d00c7c066782",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/4b.zip": {
+            "size": 441,
+            "md5": "21eaef64e8d245f15beb9b54b662f15e",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/4d.zip": {
+            "size": 747,
+            "md5": "748231ad0a17391f33b28f5d8d178889",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/4e.zip": {
+            "size": 440,
+            "md5": "7d10e7cb5e0001b09c7465f0362e2a58",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/55.zip": {
+            "size": 798,
+            "md5": "7d95753c94d940e481264b1cca233a62",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/5a.zip": {
+            "size": 334,
+            "md5": "625ae3726ccd305ebe9f364dcef3746c",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/5c.zip": {
+            "size": 436,
+            "md5": "f2bf7a58ddd680e3442911101d598102",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/5f.zip": {
+            "size": 865,
+            "md5": "8abc985272752df1284093a92c0b71d5",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/68.zip": {
+            "size": 334,
+            "md5": "392f20e4054e67161cdddb7adb4e630b",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/69.zip": {
+            "size": 2221,
+            "md5": "51e1760495214c5b472977b6c2e53d50",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/6c.zip": {
+            "size": 334,
+            "md5": "16070076abbc3aa907136221b4e125e2",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/6d.zip": {
+            "size": 2898,
+            "md5": "a70439bb06ded0fa47ae087d8da37d69",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/6f.zip": {
+            "size": 386,
+            "md5": "10eebf6360875da9f296c2e2bfe24c86",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/71.zip": {
+            "size": 326,
+            "md5": "e7dc25550e23334046cb78a19028e79b",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/75.zip": {
+            "size": 413,
+            "md5": "24d3c84aa2ff4fde040a2b29004ffb7d",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/77.zip": {
+            "size": 326,
+            "md5": "f92ca97c165cb859f05186f3b3837f59",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/78.zip": {
+            "size": 436,
+            "md5": "0cc0286b37492b80e7717e6d86cda1c7",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/79.zip": {
+            "size": 2694,
+            "md5": "13603406cc104f37de1b2fdbceba0b30",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/7a.zip": {
+            "size": 386,
+            "md5": "c2bb436e4a4b77aa00e5f05abbd31502",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/7e.zip": {
+            "size": 334,
+            "md5": "571863d4079d7371fa1fbd57a4dec12f",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/85.zip": {
+            "size": 326,
+            "md5": "e646a9254ce5dfbabfcf9ca4ca749f33",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/86.zip": {
+            "size": 411,
+            "md5": "e5fa49a72bb3224d8a07b9e21dd55274",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/88.zip": {
+            "size": 432,
+            "md5": "c637bf58cb7ab920b8b67f00d72beb68",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/92.zip": {
+            "size": 419,
+            "md5": "cc9378dfc2afd59a941036cd89a0de98",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/9a.zip": {
+            "size": 326,
+            "md5": "13d22011925c6298f742c2927cfb92d5",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/a2.zip": {
+            "size": 412,
+            "md5": "8b0b04ca34263a8058d7313fea4a32f3",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/a8.zip": {
+            "size": 334,
+            "md5": "af5172426589aa6234370d348b40dfa4",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/b2.zip": {
+            "size": 334,
+            "md5": "b529bde4f03ec647fb76b61c01a1c16c",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/b4.zip": {
+            "size": 326,
+            "md5": "6458ef5b4a4bdbeeb957b41566172479",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/b6.zip": {
+            "size": 439,
+            "md5": "b7599db1051cbac37d60348e919be77c",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/b9.zip": {
+            "size": 334,
+            "md5": "92933b811d930f7796773e165ca336dd",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/ba.zip": {
+            "size": 334,
+            "md5": "e850fe74636d3a272e7b784e2b788e89",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/bb.zip": {
+            "size": 345,
+            "md5": "673f5667273bc8fba7f6cb34842de7c5",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/c0.zip": {
+            "size": 611,
+            "md5": "1cc4e0c9d9b9f358332ab3855cc9fb39",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/c1.zip": {
+            "size": 334,
+            "md5": "8fd60c076c5a8cb3715066d4fc636828",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/cb.zip": {
+            "size": 320,
+            "md5": "cdaf855894342ce97263aace5b4aaf1f",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/ce.zip": {
+            "size": 423,
+            "md5": "ed8404180a01dca09f6d1adeec502ef7",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/cf.zip": {
+            "size": 388,
+            "md5": "c6c1108857f864c28c0c6f24c7b7bd7f",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/dc.zip": {
+            "size": 15926,
+            "md5": "3bce0f8261f3e2b3a70b9f265765f949",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/e3.zip": {
+            "size": 1041,
+            "md5": "9e81e0e0d515ab9838b19802c7bc85b2",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/e8.zip": {
+            "size": 326,
+            "md5": "321c1219fafc7983f07dfb1fffdd53b5",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/e9.zip": {
+            "size": 416,
+            "md5": "410158ee57c6aadb1b9aac286ac81985",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/ea.zip": {
+            "size": 325,
+            "md5": "4d51fcfa5a433c8649dc0666db2375a3",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/ec.zip": {
+            "size": 400,
+            "md5": "56d91326e8108fc1a22e910a72d6fa73",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/f0.zip": {
+            "size": 417,
+            "md5": "ac1e13a66faf85438161d807d20218da",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/f3.zip": {
+            "size": 342,
+            "md5": "d7745d0474fc8ca889e1a21ed40caed7",
+            "id": "0",
+            "compressed": true
+        },
+        "res/import/lo.zip": {
+            "size": 639,
+            "md5": "abece738ead1521bd0a8f68f0e96afb8",
+            "id": "0",
+            "compressed": true
+        },
+        "res/raw-assets/02/0275e94c-56a7-410f-bd1a-fc7483f7d14a.png": {
+            "size": 89,
+            "md5": "06d487b4514fb2f222ca118d775b0e1d",
+            "id": "0"
+        },
+        "res/raw-assets/03/0328427a--e95-f-46-e3-b-741-c4b0cf2168e3.png": {
+            "size": 714,
+            "md5": "9bddda4d40fc4321f2d18d3d6fe345dd",
+            "id": "0"
+        },
+        "res/raw-assets/0f/0fa3a0b3--5f6-2-45-50-a-0f0-e6d1ddd8c517.png": {
+            "size": 2079,
+            "md5": "62e6a3e4399cf9c0b1c39da09c7afcaa",
+            "id": "0"
+        },
+        "res/raw-assets/11/1164abf2--333-6-44-2f-8-55d-4881da3fa70a.png": {
+            "size": 4130,
+            "md5": "b2a6d613911de7ae271006ddaf79e106",
+            "id": "0"
+        },
+        "res/raw-assets/17/17b205f8--fbb-9-47-9d-b-6fa-18e4e3ef456b.atlas": {
+            "size": 1571,
+            "md5": "fc19970812c1f831e94e8c6af480b078",
+            "id": "0"
+        },
+        "res/raw-assets/22/22e7aae6--1b9-9-4f-21-8-920-f3758d1045d9/SourceSansPro-SemiBold.ttf": {
+            "size": 268280,
+            "md5": "83476a890be79f84e97b792c9c40d743",
+            "id": "0"
+        },
+        "res/raw-assets/32/3237cf45--8d8-9-46-db-b-bba-58d2ffbc2880.png": {
+            "size": 4298,
+            "md5": "b0b67336a9741222c2f076cfbfb6a3b6",
+            "id": "0"
+        },
+        "res/raw-assets/44/44e7c6cb--5b3-0-45-bb-8-3da-0562130cb293.mp3": {
+            "size": 304796,
+            "md5": "d007293bf21fbebf7bf0b8f71eb9c67b",
+            "id": "0"
+        },
+        "res/raw-assets/5a/5a4db661--f62-9-4f-68-9-9b6-18b6c4674bfb.png": {
+            "size": 1018459,
+            "md5": "84207b32ae96f4ac90efba466f64d9c3",
+            "id": "0"
+        },
+        "res/raw-assets/68/68ab5aa9--84f-f-42-6a-a-d21-c45f2eacdc31.png": {
+            "size": 7415,
+            "md5": "916d3e58130870f91042daedc2c47fd5",
+            "id": "0"
+        },
+        "res/raw-assets/6c/6c75b679--089-8-4b-da-a-90b-eaec50dcaaf2.png": {
+            "size": 20142,
+            "md5": "182d25f5d9a8bbaf308d26ca62b3f6da",
+            "id": "0"
+        },
+        "res/raw-assets/6d/6dedd22f-3b39-4d8d-b173-e05f8b91c0e7.png": {
+            "size": 8708,
+            "md5": "00da1703c6e4d4a6760ad915b59327bb",
+            "id": "0"
+        },
+        "res/raw-assets/71/71561142-4c83-4933-afca-cb7a17f67053.png": {
+            "size": 1057,
+            "md5": "ae451ef5b5086ddc7bd6302a61f3cbd8",
+            "id": "0"
+        },
+        "res/raw-assets/77/77fa9a08-042c-433a-bca0-8540e40710ce.png": {
+            "size": 39854,
+            "md5": "49a9765ce120e7c5ee54e7fe13f3a87a",
+            "id": "0"
+        },
+        "res/raw-assets/7e/7e668f59--012-9-4b-69-8-23d-584876afc590.png": {
+            "size": 1995,
+            "md5": "94ae61a6198a18cabdfb9e943a84b30f",
+            "id": "0"
+        },
+        "res/raw-assets/85/85838013-04f0-4e09-9952-1755222191a7.png": {
+            "size": 9297,
+            "md5": "9de65f8f3a888cfc69a16c6b928cc0e9",
+            "id": "0"
+        },
+        "res/raw-assets/9a/9a51ee6c-190f-424d-bf6b-6c897193694d.jpg": {
+            "size": 123500,
+            "md5": "66931069e8a7ff8c2162f393296e414d",
+            "id": "0"
+        },
+        "res/raw-assets/a8/a894fa70--01c-f-41-c2-8-e13-93221d29a8c3.png": {
+            "size": 2530,
+            "md5": "5eff32955943c2f80c5d868b151a885c",
+            "id": "0"
+        },
+        "res/raw-assets/b2/b218845b--c86-1-4c-f3-8-953-aa8283d464d2.png": {
+            "size": 745,
+            "md5": "f7d5b7dac71ba0326115d589becc614a",
+            "id": "0"
+        },
+        "res/raw-assets/b4/b43ff3c2-02bb-4874-81f7-f2dea6970f18.png": {
+            "size": 1121,
+            "md5": "47fdc920896f4dbf6157372f5f190950",
+            "id": "0"
+        },
+        "res/raw-assets/b9/b9b1b00e--08f-3-49-70-b-ece-055fe1f69e61.png": {
+            "size": 2567,
+            "md5": "52ebeff1c5c4ca5dbfa51e0269bf58ae",
+            "id": "0"
+        },
+        "res/raw-assets/ba/ba683476--8b9-e-4a-46-b-7c8-0f04122bb957.png": {
+            "size": 1358,
+            "md5": "2b3e7c560c29e138278de925c5debd61",
+            "id": "0"
+        },
+        "res/raw-assets/bb/bb98b6c4--81d-3-4b-3b-a-f9d-5d792d648549/SourceSansPro-Regular.ttf": {
+            "size": 269108,
+            "md5": "c1678b46f7dd3f50ceac94ed4e0ad01a",
+            "id": "0"
+        },
+        "res/raw-assets/c1/c179132f--f9d-c-4b-62-8-63a-85799df8c536.png": {
+            "size": 586,
+            "md5": "6f7c22cad019b9dd0c0e025a0493183d",
+            "id": "0"
+        },
+        "res/raw-assets/e8/e851e89b-faa2-4484-bea6-5c01dd9f06e2.png": {
+            "size": 1089,
+            "md5": "16cb4113b6fb7d05222381c020597e13",
+            "id": "0"
+        },
+        "res/raw-assets/ea/ead66240--8db-6-4f-2d-8-506-45f29735c0c5.pem": {
+            "size": 204235,
+            "md5": "3f52e40243f5fede19a3c8372268e1d5",
+            "id": "0"
+        },
+        "res/raw-assets/f3/f33ada91--7a3-0-4c-54-a-ba9-71d1380219c4/SourceSansPro-Bold.ttf": {
+            "size": 267388,
+            "md5": "8669b8706bbbdd1482e2fccc4ed96850",
+            "id": "0"
+        },
+        "res/raw-assets/lo/logo429e-d253-4b18-af5b-9fd436eaeda2.png": {
+            "size": 337,
+            "md5": "0b8477e6c2c062cdb2e6bfa2a6c89adb",
+            "id": "0"
+        },
+        "src.zip": {
+            "size": 888395,
+            "md5": "6e76b89a7911708f616a9e6b61203273",
+            "id": "0",
+            "compressed": true
+        }
+    },
+    "searchPaths": []
+}
+                       

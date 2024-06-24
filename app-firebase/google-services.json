@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943615742585",
+    "project_id": "idn-test-6c05e",
+    "storage_bucket": "idn-test-6c05e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943615742585:android:2fe1caec49645e72f6baa8",
+        "android_client_info": {
+          "package_name": "com.shell.sdk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCESgDpKN3kmMBwY49QQKZsFNuvUt7bXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

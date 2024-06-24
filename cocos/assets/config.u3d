@@ -1,0 +1,16 @@
+{
+    "packageUrl": "https://hot.djync.net/hj_1.0.0/",
+    "remoteVersionUrl": "https://hot.djync.net/hj_1.0.0/config.u3d",
+    "remoteManifestUrl": "https://hot.djync.net/hj_1.0.0/resources.u3d",
+    "gameUrl": [
+        "https://api.dodo.djync.net"
+    ],
+    "startUrl": [
+        "wss://naming.djync.net",
+        "wss://naming.yutah.net",
+        "wss://naming.win133.me"
+    ],
+    "version": "1.0.0",
+    "engineVersion": "Unity3D V20200202"
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

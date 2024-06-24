@@ -1,0 +1,113 @@
+
+vn_spine_loading.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbi01
+  rotate: false
+  xy: 2, 2
+  size: 118, 83
+  orig: 118, 83
+  offset: 0, 0
+  index: -1
+jinbi02
+  rotate: false
+  xy: 1405, 429
+  size: 169, 131
+  orig: 169, 131
+  offset: 0, 0
+  index: -1
+jinbi03
+  rotate: false
+  xy: 1576, 429
+  size: 169, 131
+  orig: 169, 131
+  offset: 0, 0
+  index: -1
+jinbi04
+  rotate: false
+  xy: 1439, 318
+  size: 103, 109
+  orig: 103, 109
+  offset: 0, 0
+  index: -1
+jinbi05
+  rotate: true
+  xy: 1873, 824
+  size: 198, 139
+  orig: 198, 139
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 507, 106
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 87
+  size: 503, 320
+  orig: 503, 320
+  offset: 0, 0
+  index: -1
+pokeo02
+  rotate: true
+  xy: 1873, 682
+  size: 140, 125
+  orig: 140, 125
+  offset: 0, 0
+  index: -1
+poker01
+  rotate: false
+  xy: 1747, 441
+  size: 179, 119
+  orig: 179, 119
+  offset: 0, 0
+  index: -1
+saoguang
+  rotate: true
+  xy: 1405, 562
+  size: 115, 509
+  orig: 115, 509
+  offset: 0, 0
+  index: -1
+shu01
+  rotate: false
+  xy: 1405, 679
+  size: 466, 343
+  orig: 466, 343
+  offset: 0, 0
+  index: -1
+yezi01
+  rotate: false
+  xy: 955, 177
+  size: 263, 230
+  orig: 263, 230
+  offset: 0, 0
+  index: -1
+yezi02
+  rotate: false
+  xy: 1220, 152
+  size: 217, 255
+  orig: 217, 255
+  offset: 0, 0
+  index: -1
+yezi04
+  rotate: false
+  xy: 507, 157
+  size: 446, 250
+  orig: 446, 250
+  offset: 0, 0
+  index: -1
+yun01
+  rotate: false
+  xy: 2, 409
+  size: 1401, 613
+  orig: 1401, 613
+  offset: 0, 0
+  index: -1
+
+                                                                                                                                                                                                          

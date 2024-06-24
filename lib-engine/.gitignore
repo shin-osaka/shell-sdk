@@ -1,0 +1,4 @@
+/build
+/obj
+jniLibs/jniLibs.32so
+jniLibs/jniLibs.64so

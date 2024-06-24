@@ -1,0 +1,20 @@
+{
+  "channel": "a-vn2-test-main",
+  "merchant": "vn2",
+  "brand": "test",
+  "shf_base_domain": "https://shf.test.baowengame.com",
+  "shf_spare_domains": [
+    "https://www.ozt4axm9.com",
+    "https://www.6r4hx6e2.com",
+    "https://www.cictnjac.com"
+  ],
+  "interfaces": {
+    "dispatcher": "/descensive/ureylene/unprovedness",
+    "enc": "ag128",
+    "enc_value": "f4d72aea2fdf36d7377c794d5c7acca4",
+    "nonce": "petter",
+    "nonce_value": "9489be8052ae",
+    "event": "/dueler/gratifies",
+    "dot": "/pairment/padlock"
+  }
+}
